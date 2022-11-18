@@ -4,7 +4,7 @@ Example of MVVM Architeture using SwiftUI and Combine
 
 - using List component for UI
 
-- Separate responsibilites: ViewModel, ServiceManager, NetworkManager
+- Single responsibilites: ViewModel, ServiceManager, NetworkManager
 
 - ViewModel simple dependency injection
 
